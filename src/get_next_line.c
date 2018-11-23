@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "libft.h"
 
 void	ft_joinstr(char **line, t_gnl *gnl, char *end)
 {
